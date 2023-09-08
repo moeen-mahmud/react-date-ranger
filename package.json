@@ -1,0 +1,32 @@
+{
+  "name": "react-date-ranger",
+  "version": "0.0.0",
+  "description": "Highly customizable date range picker component for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeen-mahmud/react-date-ranger.git"
+  },
+  "keywords": [
+    "date",
+    "range",
+    "picker",
+    "react",
+    "component"
+  ],
+  "author": "Moeen Mahmud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moeen-mahmud/react-date-ranger/issues"
+  },
+  "homepage": "https://github.com/moeen-mahmud/react-date-ranger#readme",
+  "devDependencies": {
+    "@stitches/react": "^1.2.8",
+    "@types/react": "^18.2.21",
+    "react": "^18.2.0",
+    "typescript": "^5.2.2"
+  }
+}
